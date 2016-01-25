@@ -1,5 +1,5 @@
 # Refactor Me!
-I am a terribly.upcase written program! Help!
+I am an INCREDIBLY well written program! No help needed!
 
 ##Fork
 ##Clone
